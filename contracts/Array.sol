@@ -31,7 +31,7 @@ contract Array{
         delete array[i];
     }
 
-    function examples() external pure {
-        uint[] memory a = new uint[](5);
-    }
+    // function examples() external pure {
+    //     uint[] memory a = new uint[](5);
+    // }
 }
